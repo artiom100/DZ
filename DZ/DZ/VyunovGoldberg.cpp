@@ -1,4 +1,4 @@
-﻿#include <chrono>
+#include <chrono>
 #include <vector>
 #include <queue>
 #include <algorithm>
