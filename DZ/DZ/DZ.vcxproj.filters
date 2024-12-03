@@ -24,6 +24,9 @@
     <ClCompile Include="FordFulkerson.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="VyunovGoldberg.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ReadMatrix.h">
