@@ -24,12 +24,15 @@
     <ClCompile Include="FordFulkerson.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="VyunovGoldberg.cpp">
+    <ClCompile Include="Goldberg.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ReadMatrix.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Goldberg.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

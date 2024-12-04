@@ -4,6 +4,7 @@
 #include <queue>
 #include <algorithm>
 #include <climits>
+#include "Goldberg.h"
 #define RUN(x, y, z, data) {\
     Run(#x, x, y, z, data);\
 }

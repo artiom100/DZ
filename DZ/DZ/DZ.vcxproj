@@ -130,9 +130,10 @@
     <ClCompile Include="DZ.cpp" />
     <ClCompile Include="FordFulkerson.cpp" />
     <ClCompile Include="ReadMatrix.cpp" />
-    <ClCompile Include="VyunovGoldberg.cpp" />
+    <ClCompile Include="Goldberg.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Goldberg.h" />
     <ClInclude Include="ReadMatrix.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
