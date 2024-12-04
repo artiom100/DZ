@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DZ.cpp" />
+    <ClCompile Include="EdmondsKarp.cpp" />
     <ClCompile Include="FordFulkerson.cpp" />
     <ClCompile Include="ReadMatrix.cpp" />
     <ClCompile Include="Goldberg.cpp" />

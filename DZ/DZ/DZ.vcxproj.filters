@@ -24,7 +24,15 @@
     <ClCompile Include="FordFulkerson.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Goldberg.cpp">
+=======
+<<<<<<< Updated upstream
+    <ClCompile Include="VyunovGoldberg.cpp">
+=======
+    <ClCompile Include="EdmondsKarp.cpp">
+>>>>>>> Stashed changes
+>>>>>>> 9eb6d0548866adef784c13bba9192ea6f1c0dd08
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
