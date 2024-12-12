@@ -27,7 +27,7 @@ bool findAugmentingPath(const std::vector<std::vector<int>>& residualGraph, int 
 }
 
 // Реализация алгоритма Эдмондса-Карпа
-int GuryevEdmondsKarp(const std::vector<std::vector<int>>& graph, int source, int sink) {
+int GuryevEdmondsKarp(std::vector<std::vector<int>> graph, int source, int sink) {
     int n = graph.size();
     std::vector<std::vector<int>> residualGraph(graph); // Создаем остаточную сеть
     std::vector<int> parent(n); // Для хранения пути
